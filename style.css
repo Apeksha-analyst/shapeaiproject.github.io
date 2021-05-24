@@ -76,7 +76,7 @@ a {
 
 .content{
   display: flex;
-  width: 90%;
+  width: 30%;
   justify-content: space-around;
   align-items: center;
   position: absolute;
